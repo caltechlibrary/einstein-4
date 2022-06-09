@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(51,51,51,1)"
+	galleryTitle="Einstein at Caltech - Module 4"
+
+>
+  <image imageURL="images/Einstein exhibit overview.jpg"
+	thumbURL="thumbs/Einstein exhibit overview.jpg"
+	linkURL="images/Einstein exhibit overview.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Einstein exhibit overview.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster-hoopla.jpg"
+	thumbURL="thumbs/Poster-hoopla.jpg"
+	linkURL="images/Poster-hoopla.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Poster-hoopla.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster-hoopla_caption.jpg"
+	thumbURL="thumbs/Poster-hoopla_caption.jpg"
+	linkURL="images/Poster-hoopla_caption.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Poster-hoopla_caption.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster-celebrity.jpg"
+	thumbURL="thumbs/Poster-celebrity.jpg"
+	linkURL="images/Poster-celebrity.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Poster-celebrity.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poster-celebrity_caption.jpg"
+	thumbURL="thumbs/Poster-celebrity_caption.jpg"
+	linkURL="images/Poster-celebrity_caption.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Poster-celebrity_caption.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base-1.jpg"
+	thumbURL="thumbs/Base-1.jpg"
+	linkURL="images/Base-1.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Base-1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Base-2-complete.jpg"
+	thumbURL="thumbs/Base-2-complete.jpg"
+	linkURL="images/Base-2-complete.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Einstein_4\Base-2-complete.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
